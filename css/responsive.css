@@ -1,0 +1,47 @@
+@media screen and (max-width:1000px) {
+    header{
+        height: 140px;
+    }
+    nav{
+        flex-direction: column;
+    }
+
+    .logo{
+        
+        margin-top: 20px;
+    } 
+
+    nav ul {
+        justify-content: center;
+    }
+
+    .search{
+        justify-content: center;
+    } 
+
+    .search input{
+        margin: 12px 16px;
+    } 
+
+    nav ul{
+        height: 34px;
+    } 
+
+    .slider{
+        height: 23vh;
+        margin: 12px 45px;
+    }
+
+    .my-2{
+        padding: 0 20px;
+    }
+
+
+}
+
+@media screen and (max-width:700) {
+    .my-2{
+        padding: 0 40px;
+    }
+    
+}
