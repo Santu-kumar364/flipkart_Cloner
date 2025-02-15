@@ -3,7 +3,7 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    /* box-sizing: border-box; */
 }
 
 header {
@@ -21,6 +21,7 @@ header {
 }
 
 nav{
+    
     width: 100%;
     display: flex;
     justify-content: space-between;
@@ -28,35 +29,36 @@ nav{
 }
 
 .search{
-
     display: flex;
     align-items: center;
+    
 }
 
 .search input{
-    width: 480px;
-    height: 23px;
+    width: 250px;
+    height: 25px;
     border-radius: 5px;
-    margin: 0 70px;
+    margin: 0 10px 0 23px;
+    /* border: 15px solid #04fcfc9e; */
+   
 
 }
 
 nav ul {
     display: flex;
+    
+     
 }
 
 
 nav ul li {
-    padding: 0 20px;
+    padding: 0 16px ;
     list-style: none;
-
 }
 
-nav ul li a {
-    /* color: white; */
+nav ul li a {  
     color: rgb(11, 4, 4);
-    text-decoration: none;
-    /* transition: color 0.3s ease-in-out; */
+    text-decoration: none;    
 }
 
 nav ul li a:hover {
@@ -66,14 +68,13 @@ nav ul li a:hover {
 
 .container {
     min-height: calc(100vh - 60px - 12vh);
-
 }
 
 footer {
-
     height: 12vh;
     background: #2874f0;
     color: aliceblue;
     font-family: "Lora", serif;
     font-size: large;
 }
+ 
