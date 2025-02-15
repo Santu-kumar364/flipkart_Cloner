@@ -35,19 +35,60 @@ nav{
 }
 
 .search input{
-    width: 250px;
+    width: 490px;
     height: 25px;
     border-radius: 5px;
     margin: 0 10px 0 23px;
-    /* border: 15px solid #04fcfc9e; */
-   
+    padding: 0 12px;
+}
+
+.search button{
+    font-family: "Lora", serif;
+    font-weight: bold;
+}
+
+.slider{
+    /* width: 58vw; */
+    margin-top: 12px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
+
+.card{
+    /* background-color: #2874f0; */
+    max-width: 90vw;
+    margin: auto;
+}
+
+.cards{
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: center;
+    /* align-items: center; */
+}
+
+.card-item{
+    display: inline-flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 10px;
 
 }
 
+.card h2{
+    font-family: century;
+    margin: 25px -40px;
+
+}
+
+ 
+
+ 
+  
+
 nav ul {
-    display: flex;
-    
-     
+    display: flex;   
 }
 
 
