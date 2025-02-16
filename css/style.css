@@ -56,7 +56,7 @@ nav{
 
 .card{
     max-width: 90vw;
-    margin: 37px auto; 
+    margin: 37px 15px; 
 }
 
 .cards{
@@ -65,18 +65,21 @@ nav{
     overflow: scroll;
     /* overflow: hidden; */
     /* flex-wrap: wrap; */
+    width: 98vw;
 }
 
 .card-item{
     display: inline-flex;
     justify-content: center;
     flex-direction: column;
-    margin: 0 9px;
+    position: relative;
+    left: 55px;
+    padding: 10px 16px;
 }
 
 .card h2{
     font-family: "Open Sans", serif;
-    margin: 25px -40px;
+    margin: 25px 0;
 } 
 
 nav ul {

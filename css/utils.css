@@ -16,12 +16,14 @@
 }
 
 .my-1{
-    margin: 5px 37px;
+    margin: 5px 10px;
     font-family: "Open Sans", serif;
+    width: 180px;
 }
 
 .text-center{
-    align-items: center;
+    display: flex;
+    justify-content: center;
 }
 
 .my-2{
