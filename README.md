@@ -1,6 +1,6 @@
 ### **Flipkart Cloner - E-commerce Website**  
 
-A **Flipkart-inspired e-commerce website** built using **HTML, CSS, and JavaScript**. It features a **responsive design**, **search functionality**, and an **image slider** to showcase products dynamically.  
+A **Flipkart-inspired e-commerce website** built using **HTML, CSS. It features a **responsive design**, **search functionality**, and an **image slider** to showcase products dynamically.  
 
 #### **Key Features**  
 ✅ Homepage with multiple product categories  
