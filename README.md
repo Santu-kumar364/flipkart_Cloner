@@ -7,11 +7,9 @@ A **Flipkart-inspired e-commerce website** built using **HTML** and **CSS**. It 
 **2.** Responsive design for tablet and desktop  
 **3.** Search bar for easy navigation  
 **4.** Image slider to highlight deals  
-
 #### **Tech Stack**  
 - **Frontend:** HTML, CSS (Flexbox, Grid Media Queries)  
 - **Styling:** Google Fonts, CSS Animations  
-
 #### **Future Enhancements**  
  Add **backend (Spring Boot & MySQL)**  
  Implement **cart & checkout system**  
